@@ -26,4 +26,22 @@ HTML foi criado por Tim Berners-Lee:
 ```
 Por ser uma linguagem de marcação de hipertextos, essa marcação é realizada através de tags (etiquetas). A descrição das tags é facilmente encontrada na web.
 
+## Semântica
+Durante muito tempo o elemento padrão para definição semântica foi a tag **div**.
 
+A partir de 2014, HTML 5, surgiram novos elementos semânticos, como:
+- \<section\>
+- \<aside\>
+- \<header\>
+- \<footer\>
+- \<article\>
+
+## Demais tags
+
+- \<p\> -> parágrafo
+- \<a\> -> link
+
+As tags podem possuir parâmetros/opções, conforme o exemplo abaixo da tag de link:
+```html
+    <a href="http://link">Título do link</a>
+```
