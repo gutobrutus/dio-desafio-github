@@ -8,6 +8,8 @@ Objetivo, além de cumprir o desafio, ser um repositório para armazenar informa
 
 
 ## Cursos
+ - [Introdução ao HTML 5 e CSS 3](cursos/html5-css3.md)
+ - [Construindo Páginas para internet com Bootstrap](cursos/curso-bootstrap.md)
 
 ## Bootcamps
 
