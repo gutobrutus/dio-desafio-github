@@ -45,3 +45,36 @@ As tags podem possuir parâmetros/opções, conforme o exemplo abaixo da tag de 
 ```html
     <a href="http://link">Título do link</a>
 ```
+
+## CSS3
+
+Usado para estilizar o HTML. É usado para criar regras de estilo para elementos ou grupo de elementos. 
+
+![Elementos do CSS](imagens/elementos_css.png)
+
+Há vários tipos de seletores como:
+- id
+- class
+
+Um id é único, para um único elemento
+Uma class representa um conjunto de elementos, podendo ser utilizado mais de uma vez em uma página.
+
+Na escrita de um estilo css, um id é representado por "#" e uma class por ".". Exemplo:
+
+```css
+#title, .subtitle, .postitle {
+    color: blue;
+}
+
+.postitle {
+    font-size: 16px;
+    font-style: italic;
+}
+```
+
+### Box model em um HTML
+![Box Model](imagens/box_model.png)
+
+## Repositório do curso
+
+[Repositório Github do código do curso](https://github.com/gutobrutus/dio-html5-css3)
